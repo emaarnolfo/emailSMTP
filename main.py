@@ -10,7 +10,7 @@ smtp_password = 'osrgiisnkkafmuez'
 
 # Información del remitente y destinatario
 remitente = 'emaarnolfo@gmail.com'
-destinatario = 'emanuel.arnolfo@mi.unc.edu.ar'
+destinatario = 'facundo.olivacuneo@unc.edu.ar'
 
 # Creación del objeto de mensaje
 mensaje = MIMEMultipart()
